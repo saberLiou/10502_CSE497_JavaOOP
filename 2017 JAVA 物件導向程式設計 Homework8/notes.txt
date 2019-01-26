@@ -1,0 +1,1 @@
+Notice: TA said client execution should shut down after leaving, but I prefered to run the whole project like an real ATM, means you could signed in again and again by IP and port.

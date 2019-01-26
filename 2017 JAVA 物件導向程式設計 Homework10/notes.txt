@@ -1,0 +1,1 @@
+Caution: The generic type pairs of Cat and Dog might not merely be <Integer, Double> and <Double, Integer> when TA is demoing, so you must judge four condition: <Integer, Integer>, <Integer, Double>, <Double, Integer>, <Double, Double> to recognize a Animal is a Cat, Dog or else.
